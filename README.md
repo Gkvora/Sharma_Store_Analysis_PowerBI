@@ -1,2 +1,2 @@
-# Sharma_Store_Analysis_PowerBI
-![Dashboard](https://github.com/Gkvora/Sharma_Store_Analysis_PowerBI/assets/117502951/e24736fc-69a9-4b7b-92f0-2d36ddbebdcb)
+# Sharma_Ecommerce_Store_Analysis_PowerBI
+# ![Dashboard__](https://github.com/Gkvora/Sharma_Store_Analysis_PowerBI/assets/117502951/9aeb8db0-98b5-4a10-ad30-ca18df2bd907)
